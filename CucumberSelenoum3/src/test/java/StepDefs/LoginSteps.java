@@ -12,7 +12,7 @@ public class LoginSteps {
 		public void UsernamePassword() {System.out.println("Uname and password added");}
 		@And("User Click on Login button")
 		public void LoginButton() {System.out.println("Login button clicked");}
-		@Then("User can see home page of twitter")
+		@Then("User can see home page of twitter1")
 		public void HomePage() {System.out.println("Home page displayed");}
 				
 	}

@@ -5,4 +5,4 @@ Feature: Login Test for Twitter
     Given Twitter login page is open in browser
     When User Enters username and pwd
     And User Click on Login button
-    Then User can see home page of twitter
+    Then User can see home page of twitter1
